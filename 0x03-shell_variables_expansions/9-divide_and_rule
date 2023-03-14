@@ -1,0 +1,4 @@
+#!/bin/bash
+POWER=2250
+DIVIDE=10
+The result of 2250 and 10 is "$((POWER**DIVIDE))"
